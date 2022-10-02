@@ -1,0 +1,6 @@
+C:\Users\goog5\Desktop\EvenOdd\EvenOdd\Debug\EvenOdd.vcxproj.AssemblyReference.cache
+C:\Users\goog5\Desktop\EvenOdd\EvenOdd\Debug\EvenOdd.MyForm.resources
+C:\Users\goog5\Desktop\EvenOdd\EvenOdd\Debug\EvenOdd.vcxproj.GenerateResource.cache
+C:\Users\goog5\Desktop\My Github\EvenOdd\EvenOdd\Debug\EvenOdd.vcxproj.AssemblyReference.cache
+C:\Users\goog5\Desktop\My Github\EvenOdd\EvenOdd\Debug\EvenOdd.MyForm.resources
+C:\Users\goog5\Desktop\My Github\EvenOdd\EvenOdd\Debug\EvenOdd.vcxproj.GenerateResource.cache
